@@ -27,3 +27,10 @@ Installation
 1)Clone the repository:
 git clone [repository-url]cd [project-directory]
 
+2)Create a virtual environment (Recommended):
+python -m venv venv
+# Windows
+venv\Scripts\activate
+# macOS/Linux
+source venv/bin/activate
+
