@@ -42,3 +42,6 @@ source venv/bin/activate
 
 pip install flask flask-sqlalchemy flask-login flask-jwt-extended flask-limiter bcrypt pandas numpy scikit-learn xgboost shap matplotlib seaborn plotly fpdf apscheduler werkzeug
 
+#4)Run the application:
+python main.py
+
