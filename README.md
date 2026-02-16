@@ -14,3 +14,11 @@ Role-Based Access Control: Secure authentication system with distinct roles for 
 Real-Time Dashboard: Interactive analytics displaying prediction volumes, accuracy metrics, and risk distributions.
 Bulk Processing: Supports high-volume CSV upload for batch risk scoring.
 Audit Logging: Comprehensive tracking of user actions, IP addresses, and system changes for compliance.
+
+
+Technology Stack:
+Backend: Python, Flask, SQLAlchemy, Flask-Login, Flask-JWT-Extended
+Machine Learning: Scikit-Learn, XGBoost, SHAP, Pandas, NumPy
+Frontend: HTML5, Bootstrap 5, JavaScript (Fetch API)
+Database: SQLite (configurable for PostgreSQL/MySQL)
+Utilities: APScheduler (background tasks), FPDF (report generation)
