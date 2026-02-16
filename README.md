@@ -22,3 +22,8 @@ Machine Learning: Scikit-Learn, XGBoost, SHAP, Pandas, NumPy
 Frontend: HTML5, Bootstrap 5, JavaScript (Fetch API)
 Database: SQLite (configurable for PostgreSQL/MySQL)
 Utilities: APScheduler (background tasks), FPDF (report generation)
+
+Installation
+1)Clone the repository:
+git clone [repository-url]cd [project-directory]
+
