@@ -59,3 +59,5 @@ Go to Prediction to perform single loan risk assessments.
 Use Bulk Upload to process CSV files containing multiple loan applications.
 Access Model Management to retrain models or view historical performance data.
 
+License
+This project is provided as-is for educational and demonstration purposes.
