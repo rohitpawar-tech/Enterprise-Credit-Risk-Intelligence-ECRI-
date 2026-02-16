@@ -52,3 +52,10 @@ Default Admin Credentials:
 Username: admin
 Password: admin123
 
+
+Usage
+Navigate to the Dashboard to view system statistics and model performance.
+Go to Prediction to perform single loan risk assessments.
+Use Bulk Upload to process CSV files containing multiple loan applications.
+Access Model Management to retrain models or view historical performance data.
+
