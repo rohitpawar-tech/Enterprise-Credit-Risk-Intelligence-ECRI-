@@ -45,3 +45,10 @@ pip install flask flask-sqlalchemy flask-login flask-jwt-extended flask-limiter 
 #4)Run the application:
 python main.py
 
+The system will automatically initialize the database, generate synthetic training data, and train the machine learning models on the first run.
+Access the application:
+Open your browser and navigate to http://localhost:8000.
+Default Admin Credentials:
+Username: admin
+Password: admin123
+
