@@ -1,6 +1,14 @@
 # Enterprise-Credit-Risk-Intelligence-ECRI-
 Enterprise Credit Risk Intelligence (ECRI) is a scalable web platform for automated loan risk prediction using XGBoost and Random Forest. It delivers real-time insights, audit tracking, and bulk processing for financial institutions.
 
+<img width="800" height="250" alt="content_82c0bde0-d5ea-408d-8b88-f54dc666b542-17" src="https://github.com/user-attachments/assets/55649697-2b66-4103-a9a7-daedf1acb24c" />
+
+<img width="400" height="400" alt="content_82c0bde0-d5ea-408d-8b88-f54dc666b542-9" src="https://github.com/user-attachments/assets/b170608b-561c-4b0d-863f-a25d65ea89c9" />
+
+<img width="600" height="300" alt="content_82c0bde0-d5ea-408d-8b88-f54dc666b542-13" src="https://github.com/user-attachments/assets/b306ce15-bd4a-4137-a990-980610232bae" />
+
+
+
 Enterprise Credit Risk Intelligence (ECRI)
 Overview
 Enterprise Credit Risk Intelligence (ECRI) is a scalable, production-grade web application for automated loan risk assessment. It leverages advanced machine learning models, including XGBoost and Random Forest, to predict loan default probabilities. The platform provides financial institutions with real-time decision support, comprehensive audit trails, and bulk processing capabilities.
