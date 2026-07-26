@@ -6,7 +6,7 @@ Enterprise Credit Risk Intelligence (ECRI) is a scalable web platform for automa
 <img width="400" height="400" alt="content_82c0bde0-d5ea-408d-8b88-f54dc666b542-9" src="https://github.com/user-attachments/assets/b170608b-561c-4b0d-863f-a25d65ea89c9" />
 
 <img width="600" height="300" alt="content_82c0bde0-d5ea-408d-8b88-f54dc666b542-13" src="https://github.com/user-attachments/assets/b306ce15-bd4a-4137-a990-980610232bae" />
-
+   
 
 
 Enterprise Credit Risk Intelligence (ECRI)
